@@ -7,3 +7,6 @@ body{
     background-color: gray;
     color: white;
 }
+.hero p {
+color: blue;
+}
